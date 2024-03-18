@@ -11,7 +11,7 @@ pip install tqdm
 1. train model
     run `train.py` to train model. You can change the model by changing `model_name`, select from "resnet/cnn/vgg".
 
-    I have trained 3 models, and the weights can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1soJiN8eX4Ao98_7kOqxRhVeojJkjrIyq?usp=sharing)
+    I have trained 3 models, and the weights can be downloaded from [Google Drive](https://drive.google.com/drive/u/0/folders/1xaEtiOVR4bmmbKF9wcjahTIWvx_yPhAf)
 
     Put the weights in the `weight` folder.
     
