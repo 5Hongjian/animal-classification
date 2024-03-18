@@ -17,9 +17,9 @@ pip install tqdm
     
     All train process details is put in logs dir.
 
-2. val model
+2. eval model
 
-    run `val.py` to val model. You can change the model by changing `model_name`, select from "resnet/cnn/vgg".
+    run `eval.py` to val model. You can change the model by changing `model_name`, select from "resnet/cnn/vgg".
 
     The Accuracy result is below:
     ```c
